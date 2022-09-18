@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Josefin+Sans:ital,wght@0,300;0,400;1,400&family=M+PLUS+Rounded+1c:wght@400;500;700&family=Montserrat:wght@100;200;300;400&family=Nunito:wght@300;400&family=Poppins:wght@300;400&family=Roboto:wght@100;300&family=Work+Sans:wght@100;200;300;400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+  background: rgb(224, 220, 220);
+  max-width: 1200px;
+  padding: 40px;
+  margin: auto;
+}
+
+#btn {
+  padding: 14px 50px;
+  border: none;
+  background: #000;
+  color: white;
+  font-weight: 500;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background, color 300ms;
+}
+
+#btn:hover {
+  background: #69F1A1;
+  color: #000;
+}
+
+/* aca le puse el color de todas las letras*/
+
+h1, h2, p, span {
+  color: black;
+}

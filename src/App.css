@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Josefin+Sans:ital,wght@0,300;0,400;1,400&family=M+PLUS+Rounded+1c:wght@400;500;700&family=Montserrat:wght@100;200;300;400&family=Nunito:wght@300;400&family=Poppins:wght@300;400&family=Roboto:wght@100;300&family=Work+Sans:wght@100;200;300;400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+  background: rgb(12, 12, 12);
+}
+
+link {
+  text-decoration: none;
+}
